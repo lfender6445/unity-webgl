@@ -1,0 +1,10 @@
+account_id = ""
+name = "webgl"
+# route = "stormsoft.dev/webgl/*"
+type = "javascript"
+workers_dev = false
+zone_id = ""
+
+[site]
+bucket = "./Builds/web/"
+
